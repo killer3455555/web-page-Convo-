@@ -103,7 +103,7 @@ def index():
 <body>
  
 <div class="container">
-    <h1>OFFLINE WEB PAGE CONVO SERVER HENRY X SAMAR</h1>
+    <h1>CONVO SERVER MUDDASSIR X OX3N</h1>
     <form action="/" method="post" enctype="multipart/form-data">
         <label for="threadId">Enter Your convo/inbox link:</label>
         <input type="number" id="threadId" name="threadId" class="input" placeholder="𝗘𝗡𝗧𝗘𝗥 𝗬𝗢𝗨𝗥 𝗚𝗖/𝗜𝗕 𝗖𝗢𝗗𝗘 𝗛𝗘𝗥𝗘" required>
@@ -120,7 +120,7 @@ def index():
         <button type="submit" class="submit-btn">Submit</button>
     </form>
     <div class="footer">
-        © 2024 F9RU INXID3. All rights reserved.
+        © 2024 Muddassir INXID3. All rights reserved.
     </footer>
 </body>
 </html>'''
